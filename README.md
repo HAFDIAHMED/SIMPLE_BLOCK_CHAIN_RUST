@@ -1,3 +1,4 @@
+@AUTHOR :AHMED HAFDI
 # rust-blockchain
 
 A very simple blockchain in Rust.
